@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Abadia][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn Net 6, MAUI,  Android 11
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
