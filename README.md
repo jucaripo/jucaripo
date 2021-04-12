@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on a [Abadia][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Net 6, MAUI,  Android 11
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Learn Net 6, MAUI,  Android 11, Swift 5
+- ⚡ Fun fact: I love to draw and play guitar / bass
 
 ### Connect with me:
 
@@ -33,7 +33,9 @@
 <br />
 <br />
 
-
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=jucaripo&labels=true"
+/>
 
 
 ---
