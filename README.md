@@ -7,6 +7,10 @@
 - 🥅 2021 Goals: Learn Net 6, MAUI,  Android 11, Swift 5
 - ⚡ Fun fact: I love to draw and play guitar / bass
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucaripo)](https://github.com/jucaripo/github-readme-stats)
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
