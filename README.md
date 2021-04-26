@@ -37,9 +37,7 @@
 <br />
 <br />
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=jucaripo&labels=true"
-/>
+
 
 
 ---
