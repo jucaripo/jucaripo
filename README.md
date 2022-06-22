@@ -1,7 +1,7 @@
 ### Hi there, I'm Juan Carlos Ricalde Poveda - aka [jucaripo][http://jucaripo.com] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on [Abadia] and RiskMathics Financial Institute[website]!
+- 🔭 I’m currently working on Abadia and RiskMathics Financial Institute!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn Net 7, MAUI,  Android, Swift UI
