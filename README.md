@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Abadia and RiskMathics Financial Institute!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn Net 7, MAUI,  Android, Swift UI
+- 🥅 2023 Goals: Learn Net 7, MAUI, Swift UI, AI
 - ⚡ Fun fact: I love to draw and play guitar / bass and Karaoke
 
 
