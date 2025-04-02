@@ -1,10 +1,10 @@
 ### Hi there, I'm Juan Carlos Ricalde Poveda - aka [jucaripo][http://jucaripo.com] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on RiskMathics Financial Institute!
+- 🔭 I’m currently working on Jucaripo.com 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn Net 7, MAUI, Swift UI, AI
+- 🥅 2025 Goals: Learn Net 10, MAUI, AI
 - ⚡ Fun fact: I love to draw and play guitar / bass and Karaoke
 
 
